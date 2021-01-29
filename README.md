@@ -5,6 +5,7 @@ A 0-dependency and 100% code-coverage library to build a structured TXT file in 
 ![License](https://img.shields.io/npm/l/structured-txt?style=plastic)
 ![Version](https://img.shields.io/npm/v/structured-txt)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/structured-txt?label=size)
+![Tests](https://github.com/tag-livros/structured-txt/workflows/Test/badge.svg)
 
 ## Use cases
 
