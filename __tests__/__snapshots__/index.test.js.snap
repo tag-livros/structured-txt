@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`jsonToStructuredTxt multiple lines of information is supported 1`] = `
+"0015Best Client      
+0125Not so bad Client
+0235Awful Client     "
+`;
