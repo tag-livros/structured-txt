@@ -1,6 +1,6 @@
 # StructuredTXT 📃
 
-A 0-dependency and 100% code-coverage library to build a structured TXT file in plain 
+A 0-dependency and 100% code-coverage library to build a structured TXT file, where the data position in it matters
 
 ![License](https://img.shields.io/npm/l/structured-txt?style=plastic)
 ![Version](https://img.shields.io/npm/v/structured-txt)
