@@ -57,15 +57,6 @@ HEADER1 5###
 
 If you want to build several lines, with the same block structure, you can use the `itemsBuilder` property in the `block` object. Example:
 
-The library returns a buffer, which can easily be converted to string with `Buffer.toString()`.
-
-The usage of the available blueprints parameter can be seen below:
-
-* `content`: function which receives the `data` (or the data parsed by `itemsBuilder`) and returns the item value
-* `length`: length this field will occupy in the text
-* `fillEnd` (optional, default: `' '`): what we will fill in the end of the field, if the size of the field is less than `length`
-* `fillStart` (optional): if this value is passed, `fillEnd` is ignored. What we will fill in the start of the field, if the size of the field is less than `length` 
-
 ```javascript
 const structuredTXT = require( 'structured-txt' )
 
